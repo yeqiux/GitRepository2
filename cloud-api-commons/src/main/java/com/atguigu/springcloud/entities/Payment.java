@@ -10,7 +10,7 @@ import java.io.Serializable;
 @AllArgsConstructor
 @NoArgsConstructor
 public class Payment implements Serializable {
-
+/*这是id*/
     private  Long id;
     private  String serial;
 }
