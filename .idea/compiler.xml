@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloudapicommons" />
+        <module name="cloudconsumeropenfeignorder80" />
+        <module name="cloudeurekaserver7001" />
+        <module name="cloudeurekaserver7002" />
+        <module name="cloudeurekaserver7003" />
+        <module name="cloudgatewaygateway9527" />
+        <module name="cloudproviderpayment8001" />
+        <module name="cloudproviderpayment8002" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud-consumer--openfeign-order80" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
