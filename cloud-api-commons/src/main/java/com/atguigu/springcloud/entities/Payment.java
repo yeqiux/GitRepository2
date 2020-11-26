@@ -13,4 +13,5 @@ public class Payment implements Serializable {
 /*这是id*/
     private  Long id;
     private  String serial;
+    private  String f;
 }
