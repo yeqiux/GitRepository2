@@ -15,4 +15,5 @@ public class Payment implements Serializable {
     private  String serial;
     private String df;
 
+    private  String xx;
 }
